@@ -1,0 +1,134 @@
+body{
+	background-color: :#2888d1;
+	padding: 60px;
+    margin: 100px;
+    border-radius: 4px;
+	color:rgb(30,30,30);
+    font-family: 'Merriweather', serif;	
+    background-image:url("data:image/jpeg;base64,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");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+img {
+  border-radius: 50%;
+}
+
+h1{
+	color:#EE6F57;
+	font-weight:15000;
+	letter-spacing:0.5px;
+	font-size:32px;
+	font-family: 'Bree Serif', serif;
+	text-transform:uppercase;
+	;
+}
+
+h2{
+	color:#EE6F57;
+	font-weight:15000;
+	letter-spacing:0.5px;
+	font-size:32px;
+	font-family: 'Bree Serif', serif;
+	
+}
+
+p{
+	color:#0b1230;
+}
+a{
+	font-family: 'Roboto',sans-serif;
+	text-decoration:none;
+	color:#6B72E1;
+	font-weight:600;
+	font-size: 16px
+}
+a:hover{
+	color:black;
+}
+
+.container{
+	width: 700px
+	margin:130px auto;
+
+}
+
+@media(max-width:200px){
+	.container{
+		width:400px;
+	}
+}
+
+@media(max-width:200px){
+	.container{
+		width:400px;
+	}
+}
+.card-white{
+	background-color:aliceblue;
+	padding: 40px;
+	box-shadow: 0px 10px 30px grey;
+	border-radius: 10px;
+	margin: 30px 10px;
+	text-align: center;
+
+
+}
+
+.img-circle{
+	border-radius:50%;
+}
+.btn-blue{
+	background-color:#6B72E1;
+	color:white;
+	padding:15px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue:hover{
+	background-color:black;
+	color:white;
+}
+
+.list-inline{
+	list-style:none;
+	padding-left: 0px;
+}
+
+.list-inline li{
+	display:inline;
+	padding:10px;
+}
+
+.list-inline i{
+	font-size:40px;
+	coloe:btn-blue;
+}
+
+.list-inline i:hover{
+	coloe:black;
+}
+
+#introduction p{
+margin-bottom:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
